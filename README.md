@@ -27,9 +27,6 @@
 <li>Run HomeCinema.Web application</li>
 <li>Use <i>username:</i> <strong>chsakell</strong>, <i>password:</i> <strong>homecinema</strong> to login or register a new account</li>
 </ol>
-
-<h3 style="font-weight:normal;">Follow chsakell's Blog</h3>
-<table id="gradient-style" style="box-shadow:3px -2px 10px #1F394C;font-size:12px;margin:15px;width:290px;text-align:left;border-collapse:collapse;" summary="">
 <thead>
 <tr>
 <th style="width:130px;font-size:13px;font-weight:bold;padding:8px;background:#1F1F1F repeat-x;border-top:2px solid #d3ddff;border-bottom:1px solid #fff;color:#E0E0E0;" align="center" scope="col">Facebook</th>
